@@ -1,0 +1,10 @@
+C:\JOB\TranslateModRimWorld\TranslateMod\bin\Debug\netcoreapp3.1\TranslateMod.deps.json
+C:\JOB\TranslateModRimWorld\TranslateMod\bin\Debug\netcoreapp3.1\TranslateMod.dll
+C:\JOB\TranslateModRimWorld\TranslateMod\bin\Debug\netcoreapp3.1\TranslateMod.pdb
+C:\JOB\TranslateModRimWorld\TranslateMod\obj\Debug\netcoreapp3.1\TranslateMod.csproj.AssemblyReference.cache
+C:\JOB\TranslateModRimWorld\TranslateMod\obj\Debug\netcoreapp3.1\TranslateMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\JOB\TranslateModRimWorld\TranslateMod\obj\Debug\netcoreapp3.1\TranslateMod.AssemblyInfoInputs.cache
+C:\JOB\TranslateModRimWorld\TranslateMod\obj\Debug\netcoreapp3.1\TranslateMod.AssemblyInfo.cs
+C:\JOB\TranslateModRimWorld\TranslateMod\obj\Debug\netcoreapp3.1\TranslateMod.csproj.CoreCompileInputs.cache
+C:\JOB\TranslateModRimWorld\TranslateMod\obj\Debug\netcoreapp3.1\TranslateMod.dll
+C:\JOB\TranslateModRimWorld\TranslateMod\obj\Debug\netcoreapp3.1\TranslateMod.pdb
